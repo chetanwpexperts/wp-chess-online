@@ -1,0 +1,50 @@
+﻿html, body, div, p, ul, li {
+	margin: 0px;
+	margin-top: 0px;
+	margin-bottom:0px;
+	padding: 0px;
+	border: 0px;
+	font:normal 12px georgia,arial,sans-serif; color:#000
+}
+.large {
+	font-size: 16px; 
+}
+.warning {
+	font-size: 12px;
+	color: #dd2222; 
+}
+.tiny {
+	font-size: 10px;
+}
+.info {
+	font-size: 12px; 
+	color: #5555cc;
+}
+.boardFrame {
+	background-color: #eeeeff;
+	padding: 0;
+	border-spacing: 2px;
+}
+.boardCoord {
+	color: #777799;
+}
+.board {
+	border-spacing: 0;
+	padding: 0;
+}
+.boardTileWhite {
+	background-color: #ffffff;
+	background-image: url(wsquare.jpg);
+	padding: 5px;
+}
+.boardTileBlack {
+	background-color: #cccccc;
+	background-image: url(bsquare.jpg);
+	padding: 5px;
+}
+.textFrame {
+	background-color: #777799;
+}
+.textFrameData {
+	background-color: #ffffff;
+}
